@@ -56,3 +56,9 @@ Welcome to My Page :wave:
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YetiOsa&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
+
+### :writing_hand: Analytics Projects :
+- https://www.kaggle.com/code/yetiosa/using-svm-dt-0-83
+- 

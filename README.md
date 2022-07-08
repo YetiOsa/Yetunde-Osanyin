@@ -29,11 +29,13 @@ Welcome to My Page :wave:
 ---
 ### :woman_technologist: About Me :
 
-- I am a Financial + Data Analyst
+- I am a Financial Analyst + Data Analyst :computer:
 
-- I am currently working as a Fund Manager 
+- I am currently working as a Fund Manager :briefcase:
 
-- When I am not working as a financial analyst, I am busy working on my data science projects
+- When I am not working as a financial analyst, I am busy working on my data science projects :open_file_folder:
+
+- I use Power BI and Tableau for my visualization :toolbox:
 
 ---
 

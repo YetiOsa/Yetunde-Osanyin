@@ -1,6 +1,6 @@
 # Yetunde-Osanyin
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif" width="300"/>
 </div>
   <div id="badges" align="center">
   <a href="www.linkedin.com/in/yetunde-o-2b9b3568">
@@ -25,9 +25,6 @@ Welcome to My Page :wave:
 </div>
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="400"/>
-</div>
 
 ---
 ### :woman_technologist: About Me :

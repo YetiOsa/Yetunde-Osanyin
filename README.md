@@ -1,6 +1,6 @@
 # Yetunde-Osanyin
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif" width="100"/>
 </div>
   <div id="badges" align="center">
   <a href="www.linkedin.com/in/yetunde-o-2b9b3568">
@@ -16,6 +16,44 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+
+
 <div id="badges" align="center">
-<img src="https://komarev.com/ghpvc/?username=YetiOsa&style=flat-square&color=blue" alt=""/>
+Welcome to My Page :wave:
+<img src="https://komarev.com/ghpvc/?username=YetiOsa&style=flat-square&color=blue" alt=""/> 
 </div>
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="400"/>
+</div>
+
+---
+### :woman_technologist: About Me :
+
+- I am a Financial + Data Analyst
+
+- I am currently working as a Fund Manager 
+
+- When I am not working as a financial analyst, I am busy working on my data science projects
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  
+</div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YetiOsa&theme=dark&background=000000)](https://git.io/streak-stats)

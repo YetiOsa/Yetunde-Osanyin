@@ -31,8 +31,6 @@ Welcome to My Page :wave:
 
 - I am a Financial Analyst + Data Analyst :computer:
 
-- I am currently working as a Fund Manager :briefcase:
-
 - When I am not working as a financial analyst, I am busy working on my data science projects :open_file_folder:
 
 - I use Power BI and Tableau for my visualization :toolbox:
